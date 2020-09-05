@@ -6,8 +6,8 @@
 🌱 &nbsp;我正在按部就班地学习更多关于人工智能、linux 知识.\
 ✍️ &nbsp;空闲时，我把平面设计和博客写作作为我的爱好.\
 💬 &nbsp;欢迎与我联系，提供免费咨询和服务，或者只是和我交流讨论.\
-✉️ &nbsp;你可以发邮件给我，klyinT@qq.com ! 我会尽量尽快回复的.
-📄 &nbsp;请看一下我的简历，了解更多关于我的细节。我愿意接受反馈和建议.\
+✉️ &nbsp;你可以发邮件给我，klyinT@qq.com ! 我会尽量尽快回复的.\
+📄 &nbsp;如需了解更多关于我的信息，请与我联系.\
 
 <img alt="Night Coding" src="https://www.helloimg.com/images/2020/09/05/Night-Coding672dc42c111ea58e.gif" align="right"/>
 
