@@ -31,19 +31,3 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
 ![Premiere](https://img.shields.io/badge/-Premiere-333333?style=flat&logo=adobe-Premiere-Pro)&nbsp;
 
-### ⚙️ &nbsp;GitHub 分析
-
-<p align="center">
-<a href="https://github.com/lokinT">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lokinT&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&exclude_lang=java+r&theme=vue-dark" />
-</a>
-</p>
-
-### 🤝🏻 &nbsp;联系我
-
-<p align="center">
-<a href="https://wpa.qq.com/msgrd?v=3&uin=2867374440&site=qq&menu=yes"><img src="https://img.shields.io/badge/-QQ-1769FF?style=flat-square&logo=tencent%20qq&logoColor=white"></a>
-<a href="https://weibo.com/"><img src="https://img.shields.io/badge/-%E5%BE%AE%E5%8D%9A-fee797?style=flat-square&logo=sina%20weibo&logoColor=E6162D"></a>
-<a href="mailto: KlyinT@qq.com；KlyinT@163.com；KlyinT@88.com"><img src="https://img.shields.io/badge/-Outlook-1769FF?style=flat-square&logo=microsoft%20outlook&logoColor=white"></a>
-</p>
