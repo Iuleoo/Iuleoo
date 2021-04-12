@@ -2,10 +2,10 @@
 
 ### 👨🏻‍💻 &nbsp;关于我
 
-💡 &nbsp;喜欢探索新的技术.\
+💡 &nbsp;喜欢探索新技术.\
 🌱 &nbsp;正在学习更多关于人工智能、linux 知识.\
 ✍️ &nbsp;平时呢，把博客写作作为我的小爱好.\
-✉️ &nbsp;你可以发邮件给我，loki@mxm.im ! \
+✉️ &nbsp;你可以发邮件给我：loki@mxm.im ! 
 
 <img alt="Night Coding" src="https://www.helloimg.com/images/2020/09/05/Night-Coding672dc42c111ea58e.gif" align="right"/>
 
