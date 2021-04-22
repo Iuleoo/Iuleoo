@@ -1,6 +1,6 @@
 ## 👋 &nbsp;Hey there! I'm Chloe
 
-### 👨🏻‍💻 &nbsp;关于我
+### 👨🏻‍💻 &nbs;关于
 
 💡  &nbsp;喜欢探索新技术。\
 🌱 &nbsp;正在学习更多关于人工智能、linux 知识。\
