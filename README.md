@@ -1,8 +1,8 @@
 ## 👋 &nbsp;Hey there! I'm Chloe
 
-### 👨🏻‍💻 &nbs;关于
+### 👨🏻‍💻  关于
 
-💡  &nbsp;喜欢探索新技术。\  
+💡  &nbsp;喜欢探索新技术。 
 🌱 &nbsp;正在学习更多关于人工智能、linux 知识。\
 ✍️ &nbsp;平时呢，把博客写作作为我的小爱好。\
 ✉️ &nbsp;你可以发邮件给我：TK@xkl.me ! 
